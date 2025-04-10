@@ -1,0 +1,14 @@
+[
+    {
+        "winner": "Alice",
+        "loser": "Bob",
+        "result": "X",
+        "timestamp": "2025-04-10 16:56:21"
+    },
+    {
+        "winner": "Alice",
+        "loser": "Bob",
+        "result": "X",
+        "timestamp": "2025-04-10 16:56:41"
+    }
+]
